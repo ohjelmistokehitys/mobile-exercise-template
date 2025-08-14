@@ -1,4 +1,4 @@
-# Setting Up Your Expo Project
+# Setting up your Expo project
 
 Welcome to the mobile programming course! In this exercise, you will create a new Expo project, connect it to this repository, and push your code to GitHub.
 
@@ -15,7 +15,7 @@ Before you begin, make sure you have the following installed:
 You will also need either an Android or iOS device/emulator to run your Expo app.
 
 
-## 2. Create a New Expo Project
+## 2. Create a new Expo project
 
 The [getting started documentation](https://docs.expo.dev/get-started/introduction/) provides a comprehensive guide to setting up your Expo project. Use the documentation as a reference.
 
@@ -48,7 +48,7 @@ The Expo docs contain instructions about [how to set up your environment](https:
 Follow the instructions on your project's readme file and verify that you are able to run the project locally and see changes in the source code reflected in the running application.
 
 
-## 4. Add the Current Repository as the Remote
+## 4. Add the current repository as the remote
 
 Although your new Expo project has a local Git repository, it is not connected to a remote repository. You need to connect it to this repository to be able to push your changes.
 
@@ -68,7 +68,7 @@ git remote add origin <REPO_URL>
 Now, `git remote -v` should show the new remote repository, which should also include your GitHub username.
 
 
-## 5. Prepare Your Commit
+## 5. Prepare your commit
 
 Add any changes in the project to version control using the familiar `git status`, `git add` and `git commit` commands.
 
