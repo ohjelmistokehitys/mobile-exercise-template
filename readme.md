@@ -100,4 +100,4 @@ git branch
 
 After pushing your branch to GitHub, you should be able to see it in the web UI. If it is not shown by default, try switching to the branch in the branch dropdown.
 
-This readme file exists in a separate branch in GitHub called `welcome`. After pushing your project the `welcome` branch is no longer needed, and you can [delete it](https://www.google.com/search?q=delete+branch+in+github) to prevent future confusion.
+This readme file exists in a separate branch in GitHub called `welcome`. After pushing your project the `welcome` branch is no longer needed, and you can [delete it](https://www.google.com/search?q=delete+branch+in+github) to prevent future confusion. Also, you may need to [set `master` as your default branch](https://www.google.com/search?q=set+default+branch+in+github) before GitHub allows you to delete `welcome`.
